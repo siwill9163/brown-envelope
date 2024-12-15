@@ -108,7 +108,7 @@ body{
     font-weight: 400;
 }
 
-@media(max-width:391px){
+@media(max-width:500px){
     .hero-title h1{
         font-size: 24px;
         text-align: center;
